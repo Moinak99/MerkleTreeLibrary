@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MerkleTreeLibrary_v1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ea2339eb56d45462c6cc7bf9f13f3c4fb41144c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MerkleTreeLibrary_v1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MerkleTreeLibrary_v1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

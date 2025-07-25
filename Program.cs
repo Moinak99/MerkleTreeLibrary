@@ -1,5 +1,4 @@
-﻿// Program.cs
-using MerkleTreeLib;
+﻿using MerkleTreeLib;
 
 namespace MerkleTreeLibrary
 {
