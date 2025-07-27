@@ -1,0 +1,15 @@
+Z:\c#\MerkleTreeLibrary\bin\Debug\net9.0\MerkleTreeLibrary.exe
+Z:\c#\MerkleTreeLibrary\bin\Debug\net9.0\MerkleTreeLibrary.deps.json
+Z:\c#\MerkleTreeLibrary\bin\Debug\net9.0\MerkleTreeLibrary.runtimeconfig.json
+Z:\c#\MerkleTreeLibrary\bin\Debug\net9.0\MerkleTreeLibrary.dll
+Z:\c#\MerkleTreeLibrary\bin\Debug\net9.0\MerkleTreeLibrary.pdb
+Z:\c#\MerkleTreeLibrary\obj\Debug\net9.0\MerkleTreeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+Z:\c#\MerkleTreeLibrary\obj\Debug\net9.0\MerkleTreeLibrary.AssemblyInfoInputs.cache
+Z:\c#\MerkleTreeLibrary\obj\Debug\net9.0\MerkleTreeLibrary.AssemblyInfo.cs
+Z:\c#\MerkleTreeLibrary\obj\Debug\net9.0\MerkleTreeLibrary.csproj.CoreCompileInputs.cache
+Z:\c#\MerkleTreeLibrary\obj\Debug\net9.0\MerkleTreeLibrary.sourcelink.json
+Z:\c#\MerkleTreeLibrary\obj\Debug\net9.0\MerkleTreeLibrary.dll
+Z:\c#\MerkleTreeLibrary\obj\Debug\net9.0\refint\MerkleTreeLibrary.dll
+Z:\c#\MerkleTreeLibrary\obj\Debug\net9.0\MerkleTreeLibrary.pdb
+Z:\c#\MerkleTreeLibrary\obj\Debug\net9.0\MerkleTreeLibrary.genruntimeconfig.cache
+Z:\c#\MerkleTreeLibrary\obj\Debug\net9.0\ref\MerkleTreeLibrary.dll

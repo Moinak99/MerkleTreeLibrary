@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\c#\\MerkleTreeLibrary_v1\\MerkleTreeLibrary_v1.csproj",
-      "projectName": "MerkleTreeLibrary_v1",
-      "projectPath": "Z:\\c#\\MerkleTreeLibrary_v1\\MerkleTreeLibrary_v1.csproj",
+      "projectUniqueName": "Z:\\c#\\MerkleTreeLibrary\\MerkleTreeLibrary.csproj",
+      "projectName": "MerkleTreeLibrary",
+      "projectPath": "Z:\\c#\\MerkleTreeLibrary\\MerkleTreeLibrary.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "Z:\\c#\\MerkleTreeLibrary_v1\\obj\\",
+      "outputPath": "Z:\\c#\\MerkleTreeLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
