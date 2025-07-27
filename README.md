@@ -9,7 +9,7 @@ The library takes an array of strings (like ["aaa", "bbb"]) and computes a singl
 1. Clone this repo: `git clone <reponame>`
 2. Open it in your  IDE (I use VS Code with .NET SDK 9.0).
 3. Build it with `dotnet build` - should be smooth if you’ve got the SDK!
-4. Reference it in your project by adding `<ProjectReference Include="..\MerkleTreeLibrary_v1\MerkleTreeLibrary_v1.csproj" />` to your .csproj.
+4. Reference it in your project by adding `<ProjectReference Include="..\MerkleTreeLibrary\MerkleTreeLibrary.csproj" />` to your .csproj.
 
 ## Usage Example
 Here’s how I tested it -
