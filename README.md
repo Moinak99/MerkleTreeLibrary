@@ -1,4 +1,4 @@
-# MerkleTreeLibrary_v1
+# MerkleTreeLibrary
 
 This is my C# library to calculate the Merkle Root for an array of strings. It uses a BIP340-compatible tagged hash (SHA-256) to ensure unique roots.
 
